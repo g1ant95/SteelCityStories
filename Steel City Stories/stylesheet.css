@@ -1,0 +1,32 @@
+body {
+	background-color: #eaea60;
+	font-family: Arial;
+	padding: 20px;
+}
+
+h1{
+	color: black;
+}
+
+img{
+	width: 25%;
+	height: 25%;
+	padding:20px;
+}
+
+.header{
+  padding: 30px;
+  font-size: 40px;
+  text-align: center;
+  background: white;
+}
+
+.column{
+	float: left;
+}
+
+.card{
+	background-color: white;
+	padding: 20px;
+	margin-top: 20px;
+}
